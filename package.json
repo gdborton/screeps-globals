@@ -1,0 +1,30 @@
+{
+  "name": "screeps-globals",
+  "version": "0.0.0",
+  "description": "This is a module to help get screeps code off of the global namespace.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gdborton/screep-globals.git"
+  },
+  "keywords": [
+    "screeps",
+    "globals"
+  ],
+  "author": "Gary Borton <gdborton@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gdborton/screep-globals/issues"
+  },
+  "homepage": "https://github.com/gdborton/screep-globals#readme",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-loader": "^6.2.3",
+    "babel-preset-es2015": "^6.5.0",
+    "babel-preset-stage-2": "^6.5.0",
+    "webpack": "^1.12.14"
+  }
+}
