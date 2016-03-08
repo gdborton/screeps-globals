@@ -1,6 +1,6 @@
 {
   "name": "screeps-globals",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "This is a module to help get screeps code off of the global namespace.",
   "main": "dist/index.js",
   "scripts": {
